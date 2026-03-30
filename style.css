@@ -4,4 +4,9 @@ body{
 
 li{
   font-style: italic;
+  width: fit-content;
+  margin: auto;
+}
+body{
+  text-align: center;
 }
